@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:rgb(255, 127, 227);"></bodystyle>>
+<h1 style="color: rgb(4, 196, 196)",  <link rel="p" href="style1.css"> ash (she/her)</h1>
+<p <link rel="p" href="style1.css"> style="color: rgb(4, 196, 196)">hi, i'm ash</p>
+<br>
+<h2> <link rel="p" href="style1.css", style="color: rgb(4, 196, 196)">you can find my socials here</h2>
+<div>
+    <a href="https://www.youtube.com/channel/UCuoJpENG-GrfgrLhrmWspaQ">YouTube</a>
+   <br>
+    <a href="https://www.tiktok.com/@killnovas">TikTok</a>
+   <br>
+    <a href="https://www.tumblr.com/novaashley">Tumblr (not super active here)</a>
+  <br>
+    <a href="https://www.twitter.com/backslqsh">Twitter</a>
+</div>
+<p style="color: rgb(4, 196, 196)"> <link rel="p" href="style1.css"> discord is @asheys, that's where i am most active</p>
+</body>
+</html>
+and this, my friends, is why we have backups
