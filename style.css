@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container {
+  display: flex;
+  align-items: top;
+  justify-content: center;
+}
+
+.container img {
+  max-width: 100%;
+  max-height:100%;
+  justify-content:left;
+  padding:5px;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    max-width:900px;
+    margin:0px auto 0px auto;
+    font-size:16px;
+    background-image:url(img/Untitled-111.png);
+    background-size:contain;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight:normal;
+    font-size:16px;
+}
+nav{
+    background-color: rgb(228, 215, 215);
+}
+h1{
+    font-family:Zalando Sans Expanded;
+}
+h1 span{
+    font-size: .5em;
+    text-transform:capitalize;
+}
+h2{
+    display:flex;
+    align-items:center;
+    text-align:center;
+    width:100%;
+}
+h2 span{
+    padding:10px 10px 12px 20px;
+    white-space:nowrap;
+}
+section{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space;
+}
+ a{ 
+    color:bisque;
+    font-size:13px;
+    text-decoration:none;
+    padding:2px 2px 2px 2px;
+    background-color:rgb(116, 118, 116);
+    border-radius:80px;
+}
+button{
+    color:bisque;
+    text-decoration:none;
+    padding:2px 2px 2px 2px;
+    background-color:rgb(116, 118, 116);
+    border-radius:100px;
+}
+/*^^^ resetting ^^^*/
+body{
+    background-color:ivory;
+    max-width:900px;
+    margin:0px auto 0px auto;
+}
+article{
+    display: flex;
+}
+.zalando-sans-expanded {
+  font-family: "Zalando Sans Expanded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+footer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer img{
+    height: 30px;
+}
+nav a{
+    margin-left: 10px;
+    color: blue;
+}
+main-home p{
+    margin:10px 30px 0px 30px;
+    text-align: justify;
+}
+.main flex{
+    display:flex;
+    align-items:flex-end;
+    padding:30px 30px 30px 30px;
+}
+.main flex img{
+    width:40%;
+}
